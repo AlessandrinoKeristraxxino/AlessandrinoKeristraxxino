@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Alessandrino Keristraxxino!
 
-<!--
-**AlessandrinoKeristraxxino/AlessandrinoKeristraxxino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a teenager who really likes programming and is always eager to learn something new! Currently, I'm a student with a passion for coding, especially JavaScript.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🧑‍🎓 **Student & Learner**
+- 💻 **JavaScript Enthusiast**
+- 🎮 **Fan of Undertale, Deltarune, Minecraft, and Kralsei**
+- 💡 Dreaming of creating a dating sim for Ralsei!
+- 🤖 Always exploring the world of programming and game development!
+- 🙋‍♂️ **Pronouns:** he/him
+
+---
+
+## 🛠️ Skills
+
+- JavaScript
+- Beta testing
+- Editing
+
+---
+
+## 🕹️ Interests
+
+- Indie games (especially Undertale & Deltarune)
+- Minecraft building and modding
+- Creating cool projects and experimenting with new ideas
+- Kralsei/Ralsei fanart and game ideas
+
+---
+
+## 📬 How to reach me
+
+Feel free to contact me via **Email**:  
+**alessandro.luigi.napoli@gmail.com**
+
+---
+
+> "I'm a teenager who really likes programming."
