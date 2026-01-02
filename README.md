@@ -7,9 +7,8 @@ I'm a teenager who really likes programming and is always eager to learn somethi
 ## 🚀 About Me
 
 - 🧑‍🎓 **Student & Learner**
-- 💻 **JavaScript Enthusiast**
-- 🎮 **Fan of Undertale, Deltarune, Minecraft, and Kralsei**
-- 💡 Dreaming of creating a dating sim for Ralsei!
+- 💻 **CSS Enthusiast**
+- 🎮 **Fan of Undertale, Deltarune, Minecraft, and league of Legend**
 - 🤖 Always exploring the world of programming and game development!
 - 🙋‍♂️ **Pronouns:** he/him
 
@@ -17,7 +16,7 @@ I'm a teenager who really likes programming and is always eager to learn somethi
 
 ## 🛠️ Skills
 
-- JavaScript
+- Html, CSS, Python
 - Beta testing
 - Editing
 
