@@ -27,7 +27,6 @@ I'm a teenager who really likes programming and is always eager to learn somethi
 - Indie games (especially Undertale & Deltarune)
 - Minecraft building and modding
 - Creating cool projects and experimenting with new ideas
-- Kralsei/Ralsei fanart and game ideas
 
 ---
 
@@ -35,6 +34,8 @@ I'm a teenager who really likes programming and is always eager to learn somethi
 
 Feel free to contact me via **Email**:  
 **alessandro.luigi.napoli@gmail.com**
+Discord:
+**alessandrino_keristraxxino**
 
 ---
 
