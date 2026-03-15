@@ -1,169 +1,90 @@
-# 👋 Hey, I'm Alessandro
+# Alessandro
 
-> 🚀 Creative Developer | 🎮 Game Dev | 🧠 Language Designer | 💻 IT Student  
-> _“I don’t just write code. I build worlds, tools, and ideas.”_
-
----
-
-## 🧠 About Me
-
-I'm **Alessandro**, an IT student with a strong passion for **programming, game development, and creative technologies**.  
-I love **building things from scratch**: games, programming languages, tools, interfaces, and experimental projects that mix **code, design, and imagination**.
-
-I’m not interested in boring, standard projects.  
-I aim for things that make people say:
-
-> **“Wait… this is actually insane.”**
+> *"I don't just write code. I build worlds, tools, and ideas."*
 
 ---
 
-## 🔥 What I’m Into
+## About
 
-- 🎮 **Game Development**
-  - 2D & experimental games
-  - Terminal-based games
-  - Unity & custom engines
-  - Gravity, physics, minimalism, weird mechanics
-
-- 🧪 **Programming Language Design**
-  - Designing my own languages (syntax, compiler logic, tooling)
-  - Terminal-first workflows
-  - Custom standard libraries (`Math`, `Time`, `Sys`, etc.)
-  - VS Code extensions & CLIs
-
-- 🌐 **Web & UI Experiments**
-  - HTML / CSS / JS (vanilla & advanced)
-  - React + Vite
-  - Portfolio websites
-  - Interactive storytelling on the web
-
-- 🤖 **AI & Automation**
-  - AI-assisted tools
-  - Prompt engineering
-  - Creative AI usage (not generic stuff)
-  - Integrating AI into apps, games, and tools
-
-- 🎨 **Design & Branding**
-  - Dark themes
-  - Minimal + brutalist UI
-  - Logos, banners, icons
-  - Developer personal branding
+IT student. I build things from scratch — games, programming languages, tools, interfaces.  
+Not interested in standard projects. Interested in things that shouldn't exist yet.
 
 ---
 
-## 🛠 Tech Stack
+## Stack
 
-### 💻 Languages
-- **Python** 🐍
-- **JavaScript**
-- **TypeScript**
-- **C#**
-- **HTML / CSS**
-- (and… my own languages 👀)
-
-### ⚙️ Tools & Frameworks
-- Unity
-- React + Vite
-- Node.js
-- Git & GitHub
-- VS Code
-- Terminal / CLI tools
-
-### 🧩 Concepts I Care About
-- Clean architecture
-- Readable syntax
-- Developer experience (DX)
-- Performance & control
-- Creative freedom
+| Layer | Technologies |
+|---|---|
+| **Languages** | Python · JavaScript · TypeScript · C# · HTML/CSS · *(+ my own)* |
+| **Frameworks** | React · Vite · Node.js · Unity |
+| **Tooling** | Git · GitHub · VS Code · CLI/Terminal |
+| **Concepts** | Clean arch · Readable syntax · DX · Creative freedom |
 
 ---
 
-## 🚧 Current Projects
+## What I Work On
 
-🔹 **Custom Programming Languages**  
-Designing and evolving my own languages with:
-- Custom syntax
-- Built-in libraries
-- Terminal-only workflows
-- Future plans: compiler + editor tooling
+**Game Development**  
+2D, terminal-based, experimental. Custom engines, weird mechanics, physics-first design.
 
-🔹 **Games & Interactive Experiences**
-- Terminal narrative games
-- Experimental mechanics
-- Minimalist and conceptual games
-- Unity prototypes
+**Language Design**  
+Designing compilers, syntax, tooling. Terminal-first. Custom stdlib.
 
-🔹 **Portfolio & Web Projects**
+**Web & UI**  
+Vanilla JS to React. Interactive web experiences. Minimal + brutalist UI.
+
+**AI & Automation**  
+AI-assisted tools, creative integrations. Not the generic stuff.
+
+---
+
+## Current Projects
+
+### 🔦 Lamp *(active)*
+> A compiled, imperative programming language — built in C++.
+
+Custom syntax. Static typing. Manual memory discipline.  
+A language designed to give the developer full control, no magic.
+
+→ **[github.com/your-username/lamp](#)** *(link coming soon)*
+
+---
+
+### Other ongoing work
+- Terminal narrative games & Unity prototypes
 - Personal portfolio (React/Vite)
-- Interactive websites for school & personal projects
-- Non-standard UI ideas
+- VS Code extensions & CLI tooling
 
 ---
 
-## 🧪 Philosophy
+## GitHub Stats
 
-- I prefer **control over abstraction**
-- I like **weird ideas that work**
-- I believe code can be **expressive**, not just functional
-- I learn by **building**, not by copying tutorials
-- I don’t chase trends — I **bend them**
+![Alessandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlessandrinoKeristraxxino&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandrinoKeristraxxino&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa)
 
 ---
 
-## 📊 GitHub Stats (optional)
+## Principles
 
-```txt
-Code > excuses
-Ideas > fear
-Consistency > talent
-## 📊 GitHub Stats (optional)
-
-```txt
-Code > excuses
-Ideas > fear
-Consistency > talent
+```
+Control > abstraction
+Building > watching tutorials
+Weird ideas that work > safe ideas that don't
+Code as expression, not just function
 ```
 
 ---
 
-## 🌍 Find Me Online
+## Contact
 
-> ⚠️ Links coming soon — placeholders ready
+→ Portfolio: `[coming soon]`  
+→ Blog / Devlog: `[coming soon]`  
+→ Twitter / X: `[coming soon]`  
+→ Discord: `alessandrino_keristraxxino`
 
-- 🌐 Portfolio: **[your-portfolio-link]**
-- 🧠 Blog / Devlog: **[your-blog-link]**
-- 🐦 Twitter / X: **[your-twitter-link]**
-- 📸 Instagram: **[your-instagram-link]**
-- 🎥 YouTube: **[your-youtube-link]**
-- 💬 Discord: **yourusername#0000**
+Open to collabs on games, languages, tools, or anything that shouldn't exist yet.
 
 ---
 
-## 📬 Contact
-
-If you want to:
-- collaborate on a project  
-- talk about games, programming, or languages  
-- build something crazy  
-
-👉 **Just reach out.**
-
----
-
-## ⚡ Fun Facts
-
-- I enjoy terminal-based UIs more than GUIs  
-- I like designing syntax almost as much as using it  
-- I mix programming with storytelling  
-- I’m always working on **something**, even if it’s not public yet  
-
----
-
-## 🏁 Final Note
-
-This profile is not a showcase of finished products.  
-It’s a **workbench**.
-
-> 🔧 Ideas are being built here.
-
-Stay tuned.
+*This profile is a workbench. Things are being built.*
