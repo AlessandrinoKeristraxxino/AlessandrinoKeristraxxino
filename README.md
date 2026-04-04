@@ -59,15 +59,9 @@ A language designed to give the developer full control, no magic.
 
 ## GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=AlessandrinoKeristraxxino&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="Statistiche GitHub di AlessandrinoKeristraxxino" height="180" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandrinoKeristraxxino&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa" alt="Linguaggi più usati" height="180" />
-  </a>
-</div>
+[![Le mie statistiche su GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=AlessandrinoKeristraxxino&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![I miei linguaggi più usati](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlessandrinoKeristraxxino&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
