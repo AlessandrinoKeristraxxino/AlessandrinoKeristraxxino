@@ -59,9 +59,9 @@ A language designed to give the developer full control, no magic.
 
 ## GitHub Stats
 
-![Alessandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlessandrinoKeristraxxino&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)
+[![Le mie statistiche su GitHub](https://github-readme-stats.vercel.app/api?username=IL_TUO_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandrinoKeristraxxino&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa)
+[![Le mie statistiche su GitHub](https://github-readme-stats.vercel.app/api?username=IL_TUO_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
