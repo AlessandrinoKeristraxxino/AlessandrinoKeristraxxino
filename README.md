@@ -15,7 +15,7 @@ Not interested in standard projects. Interested in things that shouldn't exist y
 
 | Layer | Technologies |
 |---|---|
-| **Languages** | Python · JavaScript · TypeScript · C# · HTML/CSS · *(+ my own)* |
+| **Languages** | Python · JavaScript · TypeScript · C++ · HTML/CSS · Rust |
 | **Frameworks** | React · Vite · Node.js · Unity |
 | **Tooling** | Git · GitHub · VS Code · CLI/Terminal |
 | **Concepts** | Clean arch · Readable syntax · DX · Creative freedom |
