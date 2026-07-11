@@ -15,8 +15,8 @@ Not interested in standard projects. Interested in things that shouldn't exist y
 
 | Layer | Technologies |
 |---|---|
-| **Languages** | Python · JavaScript · TypeScript · C++ · HTML/CSS · Rust |
-| **Frameworks** | React · Vite · Node.js · Unity |
+| **Languages** | JavaScript · C++ · HTML/CSS · Rust |
+| **Frameworks** | React · Vite · Node.js · Unity · Bevy |
 | **Tooling** | Git · GitHub · VS Code · CLI/Terminal |
 | **Concepts** | Clean arch · Readable syntax · DX · Creative freedom |
 
@@ -33,20 +33,17 @@ Designing compilers, syntax, tooling. Terminal-first. Custom stdlib.
 **Web & UI**  
 Vanilla JS to React. Interactive web experiences. Minimal + brutalist UI.
 
-**AI & Automation**  
-AI-assisted tools, creative integrations. Not the generic stuff.
-
 ---
 
 ## Current Projects
 
-### 🔦 Lamp *(active)*
-> A compiled, imperative programming language — built in C++.
+### LampScript *(active)*
+> A compiled, functional programming language — built in Rust.
 
 Custom syntax. Static typing. Manual memory discipline.  
 A language designed to give the developer full control, no magic.
 
-→ **[github.com/your-username/lamp](#)** *(link coming soon)*
+→ **[github.com/AlessandrinoKeristraxxino/LampScript Compiler](github.com/AlessandrinoKeristraxxino/LampScript-Compiler)**
 
 ---
 
